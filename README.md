@@ -61,9 +61,9 @@ Supervised ML models utilizes labeled training data, meaning that input data has
 #### CNN
 CNNs distinguish from other neural networks in their adoption of convolutional filters. The convolutional filters enable the model to learn contextual information, since pixels are processed together woth their neighbourghs.
 
-![](Readme-Visuals/CNN_image.png)
+![](Readme-Visuals/cnn_image.png)
 
-![](Readme-Visuals/CNN.gif)
+![](Readme-Visuals/cnn.gif)
 
 #### Random Forest
 
