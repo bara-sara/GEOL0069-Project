@@ -121,3 +121,4 @@ L. Lannelongue, J. Grealey, M. Inouye, Green Algorithms: Quantifying the Carbon 
 
 
 ## Acknowledgements  <a name="acknowledgements"></a>
+Significant sections of the code used in this project are inspired by, in some cases copied from, course content developed by Dr Michel Tsamados, Weibin Chen and Connor Nelson. I want to thank them for their work and support during the module.
