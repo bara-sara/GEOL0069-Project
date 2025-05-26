@@ -9,6 +9,7 @@ This notebook explores snow cover classification based on earth observations wit
 4. [Results and Conclusions](#results)
 5. [Acknowledgements](#acknowledgements)
 
+If you don't want to read you can watch [this demo]([Video.mp4](https://www.dropbox.com/scl/fi/n4uiu85gs7hk7x8pdnhs5/Video.mp4?rlkey=busl1vrhg1hrgx07u7boisg65&st=5ncwks93&dl=0)).
 
 ## Running the Notebook  <a name="running"></a>
 
